@@ -1,7 +1,7 @@
 
 # Sketchfab Account Generator
 
-This is an automated account registration tool for Sketchfab that uses Selenium and the 2Captcha service to bypass Google's invisible reCAPTCHA during the signup process. The project is written in C# and uses the `TwoCaptcha` library for solving reCAPTCHA challenges.
+This is an automated account registration tool for Sketchfab that uses Selenium and the 2Captcha service to bypass Google's invisible reCAPTCHA during the signup process. The project is written in C# and uses the `TwoCaptcha` library for solving reCAPTCHA challenges. Currently it does not work as Sketchfab's reCAPTCHA does not work. But this project can be modified and remade for other use. 
 
 ## Features
 - **Account Generation**: Automatically generates a random username, password, and email to create new accounts on Sketchfab.
